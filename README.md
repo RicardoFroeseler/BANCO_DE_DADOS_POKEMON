@@ -1,2 +1,2 @@
 # banco-de-dados-una
-exercício bd pokemon 
+as respostas estão no arquivo pdf 
