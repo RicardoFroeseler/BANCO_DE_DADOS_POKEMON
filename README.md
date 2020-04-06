@@ -1,5 +1,5 @@
 # banco-de-dados-una
-as respostas estão no arquivo pdf 
+<P>as respostas estão no arquivo pdf<P> 
 ============= EXERCICIO 1 =================
 
 use pokedex;
