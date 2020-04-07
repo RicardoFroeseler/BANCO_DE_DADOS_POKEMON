@@ -14,10 +14,10 @@ Pokémon!”</blockquote>
 
 <p align="center">
 
-  <a href="pokemon.com">
+  <a href="">
     <img alt="Made by Ricardo Froeseler" src="https://img.shields.io/badge/made%20by-Ricardo Froeseler-%23F8952D">
   </a>
-  <a href="pokemon.com">
+  <a href="">
     <img alt="License Pokémon. TM, ® Nintendo" src="https://img.shields.io/badge/-Pok%C3%A9mon.%20TM%2C%20%C2%AE%20Nintendo-yellow">
   </a>
 </p>
