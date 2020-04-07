@@ -30,9 +30,7 @@ Pokémon!”</blockquote>
 
 ## :Exercicio: 01
 <P>as respostas estão no arquivo pdf<P> 
-```html
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-```
+
 
 use pokedex;
 
