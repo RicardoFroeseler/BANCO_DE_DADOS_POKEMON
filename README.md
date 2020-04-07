@@ -1,3 +1,34 @@
+<h1 align="center">
+    <img alt="POKEMON" src="https://www.pngarts.com/files/4/Pokemon-Logo-PNG-Transparent-Image.png" width="400px" />
+</h1>
+
+
+<h3 align="center">
+  Atividades banco de dados POKEMON
+</h3>
+
+<blockquote align="center">“Pokémon
+Tenho que pegá-los (isso eu sei...)
+Pegá-los eu tentarei,
+Pokémon!”</blockquote>
+
+<p align="center">
+
+  <a href="pokemon.com">
+    <img alt="Made by Ricardo Froeseler" src="https://img.shields.io/badge/made%20by-Ricardo Froeseler-%23F8952D">
+  </a>
+  <a href="pokemon.com">
+    <img alt="License Pokémon. TM, ® Nintendo" src="https://img.shields.io/badge/-Pok%C3%A9mon.%20TM%2C%20%C2%AE%20Nintendo-yellow">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Atividade 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio">Atividade 02</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
 # banco-de-dados-una
 <P>as respostas estão no arquivo pdf<P> 
 ============= EXERCICIO 1 =================
