@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  Atividades banco de dados POKEMON
+  Atividades banco de dados POKEMON MySQL
 </h3>
 
 <blockquote align="center">“Pokémon
