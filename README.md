@@ -23,12 +23,12 @@ Pokémon!”</blockquote>
 </p>
 
 <p align="center">
-  <a href="## Exercicio 01">Atividade 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio">Atividade 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="## Exercicio 02">Atividade 02</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
-## Exercicio 01
+
 <P>as respostas estão no arquivo pdf<P> 
 
 
@@ -143,8 +143,8 @@ select numero, nome, hp, ataque, defesa, total from pokemon where  hp and ataque
 
 SELECT * FROM pokemon where tipo1 = "water" and tipo2 = "gelo" order by total desc;
 
-## Exercicio 02
 
+## :rocket: Sobre o desafio
 
 -- Exercicio 1
 select max(total), max(hp), max(ataque), 
