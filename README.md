@@ -23,7 +23,7 @@ Pokémon!”</blockquote>
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Atividade 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#EXERCICIO 1">Atividade 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-sobre-o-desafio">Atividade 02</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -31,7 +31,7 @@ Pokémon!”</blockquote>
 
 # banco-de-dados-una
 <P>as respostas estão no arquivo pdf<P> 
-============= EXERCICIO 1 =================
+## EXERCICIO 1
 
 use pokedex;
 
