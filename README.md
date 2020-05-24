@@ -209,9 +209,10 @@ select cor, nome, total from pokemon where lendario = false
 group by (cor) having avg(total) < 400;
 
 -- Exercicio 17
+```
 select geracao, max(total) from pokemon
 group by geracao;
-
+```
 -- Exercicio 18
 select geracao, count(*) as "Total lendários" from pokemon where lendario = true
 group by geracao;
