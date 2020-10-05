@@ -28,8 +28,8 @@ Pokémon!”</blockquote>
 </p>
 
 
-## :Exercicio: 01
-<P>as respostas estão no arquivo pdf<P> 
+### :Exercicio: 01
+## Execute as consultas abaixo
 
 
 use pokedex;
@@ -144,7 +144,8 @@ select numero, nome, hp, ataque, defesa, total from pokemon where  hp and ataque
 SELECT * FROM pokemon where tipo1 = "water" and tipo2 = "gelo" order by total desc;
 
 
-## :Exercicio: 02
+### :Exercicio: 02
+## Execute as consultas abaixo
 
 -- Exercicio 1
 ```
